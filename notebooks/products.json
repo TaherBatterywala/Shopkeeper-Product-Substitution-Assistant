@@ -7,7 +7,10 @@
     "price": 65,
     "in_stock": false,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "dairy",
+      "milk",
+      "breakfast_item"
     ]
   },
   {
@@ -19,7 +22,10 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "lactose_free"
+      "lactose_free",
+      "dairy",
+      "milk",
+      "breakfast_item"
     ]
   },
   {
@@ -30,7 +36,10 @@
     "price": 62,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "dairy",
+      "milk",
+      "breakfast_item"
     ]
   },
   {
@@ -41,7 +50,10 @@
     "price": 120,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "dairy",
+      "cheese",
+      "sandwich"
     ]
   },
   {
@@ -52,7 +64,9 @@
     "price": 110,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "dairy",
+      "cheese"
     ]
   },
   {
@@ -64,7 +78,9 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "low_fat"
+      "low_fat",
+      "dairy",
+      "curd"
     ]
   },
   {
@@ -75,7 +91,9 @@
     "price": 55,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "dairy",
+      "curd"
     ]
   },
   {
@@ -87,7 +105,51 @@
     "in_stock": false,
     "tags": [
       "veg_only",
-      "probiotic"
+      "probiotic",
+      "dairy",
+      "curd"
+    ]
+  },
+  {
+    "product_id": "P031",
+    "name": "Amul Fresh Cream 200ml",
+    "category": "Dairy",
+    "brand": "Amul",
+    "price": 75,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "dairy",
+      "cream",
+      "cooking"
+    ]
+  },
+  {
+    "product_id": "P032",
+    "name": "Mother Dairy Paneer 200g",
+    "category": "Dairy",
+    "brand": "Mother Dairy",
+    "price": 90,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "dairy",
+      "paneer",
+      "high_protein"
+    ]
+  },
+  {
+    "product_id": "P033",
+    "name": "Amul Paneer 200g",
+    "category": "Dairy",
+    "brand": "Amul",
+    "price": 95,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "dairy",
+      "paneer",
+      "high_protein"
     ]
   },
   {
@@ -99,7 +161,9 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "high_fiber"
+      "high_fiber",
+      "bread",
+      "breakfast_item"
     ]
   },
   {
@@ -110,7 +174,9 @@
     "price": 40,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "bread",
+      "breakfast_item"
     ]
   },
   {
@@ -122,7 +188,9 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "high_fiber"
+      "high_fiber",
+      "bread",
+      "breakfast_item"
     ]
   },
   {
@@ -135,7 +203,8 @@
     "tags": [
       "veg_only",
       "gluten_free",
-      "high_fiber"
+      "high_fiber",
+      "bread"
     ]
   },
   {
@@ -146,7 +215,10 @@
     "price": 60,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "bread",
+      "buns",
+      "snack"
     ]
   },
   {
@@ -157,7 +229,50 @@
     "price": 70,
     "in_stock": false,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "bread",
+      "snack"
+    ]
+  },
+  {
+    "product_id": "P034",
+    "name": "Britannia Marie Gold Biscuits 200g",
+    "category": "Bakery",
+    "brand": "Britannia",
+    "price": 35,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "biscuit",
+      "tea_time",
+      "light_snack"
+    ]
+  },
+  {
+    "product_id": "P035",
+    "name": "Parle G Biscuits 250g",
+    "category": "Bakery",
+    "brand": "Parle",
+    "price": 30,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "biscuit",
+      "tea_time"
+    ]
+  },
+  {
+    "product_id": "P036",
+    "name": "Rusk Toast 200g",
+    "category": "Bakery",
+    "brand": "LocalBake",
+    "price": 40,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "biscuit",
+      "rusk",
+      "tea_time"
     ]
   },
   {
@@ -168,7 +283,9 @@
     "price": 20,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "snack",
+      "evening_snack"
     ]
   },
   {
@@ -180,7 +297,9 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "low_fat"
+      "low_fat",
+      "snack",
+      "evening_snack"
     ]
   },
   {
@@ -191,7 +310,9 @@
     "price": 20,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "snack",
+      "evening_snack"
     ]
   },
   {
@@ -203,7 +324,9 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "high_protein"
+      "high_protein",
+      "snack",
+      "healthy_snack"
     ]
   },
   {
@@ -216,7 +339,9 @@
     "tags": [
       "veg_only",
       "high_protein",
-      "low_fat"
+      "low_fat",
+      "snack",
+      "healthy_snack"
     ]
   },
   {
@@ -229,7 +354,49 @@
     "tags": [
       "veg_only",
       "high_protein",
-      "gluten_free"
+      "gluten_free",
+      "snack",
+      "on_the_go"
+    ]
+  },
+  {
+    "product_id": "P037",
+    "name": "Salted Peanuts 100g",
+    "category": "Snacks",
+    "brand": "NutriBox",
+    "price": 50,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "snack",
+      "evening_snack"
+    ]
+  },
+  {
+    "product_id": "P038",
+    "name": "Masala Fox Nuts (Makhana) 70g",
+    "category": "Snacks",
+    "brand": "NutriBox",
+    "price": 120,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "healthy_snack",
+      "low_fat",
+      "snack"
+    ]
+  },
+  {
+    "product_id": "P039",
+    "name": "Baked Nachos 75g",
+    "category": "Snacks",
+    "brand": "FitLife",
+    "price": 70,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "snack",
+      "low_fat"
     ]
   },
   {
@@ -240,7 +407,9 @@
     "price": 110,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "juice",
+      "beverage"
     ]
   },
   {
@@ -251,7 +420,9 @@
     "price": 115,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "juice",
+      "beverage"
     ]
   },
   {
@@ -263,7 +434,9 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "sugar_free"
+      "sugar_free",
+      "tea",
+      "beverage"
     ]
   },
   {
@@ -275,7 +448,9 @@
     "in_stock": false,
     "tags": [
       "veg_only",
-      "low_sugar"
+      "low_sugar",
+      "juice",
+      "beverage"
     ]
   },
   {
@@ -286,7 +461,48 @@
     "price": 45,
     "in_stock": true,
     "tags": [
-      "veg_only"
+      "veg_only",
+      "beverage",
+      "hydration"
+    ]
+  },
+  {
+    "product_id": "P040",
+    "name": "Masala Chai Instant Premix 200g",
+    "category": "Beverages",
+    "brand": "TeaTime",
+    "price": 95,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "tea",
+      "beverage"
+    ]
+  },
+  {
+    "product_id": "P041",
+    "name": "Cold Coffee Can 200ml",
+    "category": "Beverages",
+    "brand": "CaféCool",
+    "price": 60,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "beverage",
+      "coffee"
+    ]
+  },
+  {
+    "product_id": "P042",
+    "name": "Electrolyte Drink 500ml",
+    "category": "Beverages",
+    "brand": "HydroFresh",
+    "price": 55,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "beverage",
+      "hydration"
     ]
   },
   {
@@ -298,7 +514,9 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "lactose_free"
+      "lactose_free",
+      "dairy",
+      "curd"
     ]
   },
   {
@@ -311,7 +529,9 @@
     "tags": [
       "veg_only",
       "sugar_free",
-      "high_fiber"
+      "high_fiber",
+      "biscuit",
+      "tea_time"
     ]
   },
   {
@@ -324,7 +544,9 @@
     "tags": [
       "veg_only",
       "gluten_free",
-      "high_protein"
+      "high_protein",
+      "biscuit",
+      "healthy_snack"
     ]
   },
   {
@@ -336,7 +558,9 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "high_protein"
+      "high_protein",
+      "dairy",
+      "beverage"
     ]
   },
   {
@@ -348,7 +572,49 @@
     "in_stock": true,
     "tags": [
       "veg_only",
-      "sugar_free"
+      "sugar_free",
+      "chocolate",
+      "treat"
+    ]
+  },
+  {
+    "product_id": "P043",
+    "name": "Multigrain Energy Bar 35g",
+    "category": "Health",
+    "brand": "FitLife",
+    "price": 45,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "high_protein",
+      "healthy_snack",
+      "on_the_go"
+    ]
+  },
+  {
+    "product_id": "P044",
+    "name": "Oats 1kg",
+    "category": "Health",
+    "brand": "HealthLife",
+    "price": 120,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "high_fiber",
+      "breakfast_item"
+    ]
+  },
+  {
+    "product_id": "P045",
+    "name": "Chia Seeds 200g",
+    "category": "Health",
+    "brand": "HealthLife",
+    "price": 160,
+    "in_stock": true,
+    "tags": [
+      "veg_only",
+      "high_fiber",
+      "healthy_snack"
     ]
   }
 ]
