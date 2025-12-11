@@ -158,7 +158,8 @@ with left_col:
     st.markdown("---")
     st.markdown("**Filters (optional)**")
 
-    max_price_val =  None
+    max_price_input = st.slider("Max Price (₹)", 0, 250, 0, 5, key="max_price_main")
+    max_price_val = max_price_input if max_price_input > 0 else None
 
     all_tags = sorted({tag for p in service.products for tag in p.tags})
     required_tags = st.multiselect("Required Tags", options=all_tags, default=[], key="tags_main")
