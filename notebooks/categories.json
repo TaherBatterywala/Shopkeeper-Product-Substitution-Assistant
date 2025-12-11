@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Dairy",
+    "similar_to": [
+      "Health",
+      "Snacks"
+    ]
+  },
+  {
+    "name": "Bakery",
+    "similar_to": [
+      "Snacks",
+      "Health"
+    ]
+  },
+  {
+    "name": "Snacks",
+    "similar_to": [
+      "Bakery",
+      "Health"
+    ]
+  },
+  {
+    "name": "Beverages",
+    "similar_to": [
+      "Health"
+    ]
+  },
+  {
+    "name": "Health",
+    "similar_to": [
+      "Dairy",
+      "Snacks",
+      "Bakery",
+      "Beverages"
+    ]
+  }
+]

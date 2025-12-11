@@ -1,0 +1,10 @@
+streamlit
+networkx
+pandas
+numpy
+plotly
+pyvis
+streamlit-agraph
+python-dotenv
+pyyaml
+ipykernel

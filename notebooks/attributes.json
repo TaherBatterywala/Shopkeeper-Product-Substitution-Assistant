@@ -1,0 +1,29 @@
+[
+  {
+    "name": "gluten_free"
+  },
+  {
+    "name": "high_fiber"
+  },
+  {
+    "name": "high_protein"
+  },
+  {
+    "name": "lactose_free"
+  },
+  {
+    "name": "low_fat"
+  },
+  {
+    "name": "low_sugar"
+  },
+  {
+    "name": "probiotic"
+  },
+  {
+    "name": "sugar_free"
+  },
+  {
+    "name": "veg_only"
+  }
+]
