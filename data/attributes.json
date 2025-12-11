@@ -1,0 +1,107 @@
+[
+  {
+    "name": "beverage"
+  },
+  {
+    "name": "biscuit"
+  },
+  {
+    "name": "bread"
+  },
+  {
+    "name": "breakfast_item"
+  },
+  {
+    "name": "buns"
+  },
+  {
+    "name": "cheese"
+  },
+  {
+    "name": "chocolate"
+  },
+  {
+    "name": "coffee"
+  },
+  {
+    "name": "cooking"
+  },
+  {
+    "name": "cream"
+  },
+  {
+    "name": "curd"
+  },
+  {
+    "name": "dairy"
+  },
+  {
+    "name": "evening_snack"
+  },
+  {
+    "name": "gluten_free"
+  },
+  {
+    "name": "healthy_snack"
+  },
+  {
+    "name": "high_fiber"
+  },
+  {
+    "name": "high_protein"
+  },
+  {
+    "name": "hydration"
+  },
+  {
+    "name": "juice"
+  },
+  {
+    "name": "lactose_free"
+  },
+  {
+    "name": "light_snack"
+  },
+  {
+    "name": "low_fat"
+  },
+  {
+    "name": "low_sugar"
+  },
+  {
+    "name": "milk"
+  },
+  {
+    "name": "on_the_go"
+  },
+  {
+    "name": "paneer"
+  },
+  {
+    "name": "probiotic"
+  },
+  {
+    "name": "rusk"
+  },
+  {
+    "name": "sandwich"
+  },
+  {
+    "name": "snack"
+  },
+  {
+    "name": "sugar_free"
+  },
+  {
+    "name": "tea"
+  },
+  {
+    "name": "tea_time"
+  },
+  {
+    "name": "treat"
+  },
+  {
+    "name": "veg_only"
+  }
+]
